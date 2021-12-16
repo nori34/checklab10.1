@@ -18,7 +18,7 @@ class testSelectionSort {
 
     public testSelectionSort() {
     }
-    
+    1
     public void testPositive(){
         int[] arr = new int[5];
         arr[0] = 8;
